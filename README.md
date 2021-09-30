@@ -13,4 +13,12 @@ Shift+F4 Jumps to the next track
 ## Missing buttons
 I usually use an american layout on my physical keyboard, but the swedish layout inside windows. This means im missing a couple of keys. <, > and | to be specific. 
 
-With this script you can type < with WIN(windowskey)+Z, > with WIN+X and | with WIN+C
+With this script you can use these anyway: 
+
+WIN = Windowskey(start menu)
+
+WIN+Z : <
+
+WIN+X : >
+
+WIN+C : |
