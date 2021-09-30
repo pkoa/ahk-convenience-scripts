@@ -1,4 +1,4 @@
-# ahk-conveniences-scripts
+# ahk-convenience-scripts
 Super simple auto-hotkey-scripts that made my life easier when i wrote them many years ago. 
 
 Needs [autohotkey](https://www.autohotkey.com/) to work
