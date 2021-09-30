@@ -1,5 +1,8 @@
 # ahk-conveniences-scripts
-## Media-controls
+Super simple auto-hotkey-scripts that made my life easier when i wrote them many years ago. 
+
+Needs [autohotkey](https://www.autohotkey.com/) to work
+## Media controls
 Makes it easier to control media playing software, such as spotify or youtube in a browser, without dedicated buttons on the keyboard. 
 
 Shift+F1 Pauses/unpauses
